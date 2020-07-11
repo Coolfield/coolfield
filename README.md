@@ -13,4 +13,3 @@
 <!-- - 👯 I’m looking to collaborate on vertical farming automation; -->
 <!-- - 🤔 I’m looking for help with ; -->
 <!-- - 💬 Ask me about ...; -->
--->
