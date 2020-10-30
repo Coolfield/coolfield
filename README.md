@@ -17,6 +17,7 @@
 <!-- - 💬 Ask me about ...; -->
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Understanding Azure: Regions, Availability Zones, and Paired Regions](https://certifriedit.com/understanding-azure-regions/)
 - [How to create a profile readme on GitHub](https://certifriedit.com/how-to-create-a-profile-readme-on-github/)
 - [7 Innovative GitHub personal readmes'](https://certifriedit.com/7-innovative-github-personal-readmes/)
 - [The easiest way to verify files integrity on Windows](https://certifriedit.com/how-to-verify-files-integrity-on-windows/)
