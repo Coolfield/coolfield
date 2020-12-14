@@ -17,7 +17,7 @@
 <!-- - 💬 Ask me about ...; -->
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Advent of Cyber 2 | Day 3 - Christmas Chaos | TryHackMe Walkthrough](https://certifriedit.com/advent-of-cyber-2-day-3-christmas-chaos-tryhackme-walkthrough/)
+- [Advent of Cyber 2 | Day 3 - Christmas Chaos | TryHackMe Walkthrough](https://certifriedit.com/thm-advent-of-cyber-2-day3/)
 - [Advent of Cyber 2 | Day 2 - The Elf Strikes Back! | TryHackMe Walkthrough](https://certifriedit.com/thm-advent-of-cyber-2-day2/)
 - [Advent of Cyber 2 | Day 1 - A Christmas Crisis | TryHackMe Walkthrough](https://certifriedit.com/thm-advent-of-cyber-2-day1/)
 - [Understanding Azure: Regions, Availability Zones, and Paired Regions](https://certifriedit.com/understanding-azure-regions/)
