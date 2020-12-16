@@ -17,9 +17,9 @@
 <!-- - 💬 Ask me about ...; -->
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Advent of Cyber 2 | Day 15 - There's a python in my stocking! | TryHackMe Walkthrough](https://certifriedit.com/thm-advent-of-cyber-2-day15/)
 - [Advent of Cyber 2 | Day 3 - Christmas Chaos | TryHackMe Walkthrough](https://certifriedit.com/thm-advent-of-cyber-2-day3/)
 - [Advent of Cyber 2 | Day 2 - The Elf Strikes Back! | TryHackMe Walkthrough](https://certifriedit.com/thm-advent-of-cyber-2-day2/)
 - [Advent of Cyber 2 | Day 1 - A Christmas Crisis | TryHackMe Walkthrough](https://certifriedit.com/thm-advent-of-cyber-2-day1/)
 - [Understanding Azure: Regions, Availability Zones, and Paired Regions](https://certifriedit.com/understanding-azure-regions/)
-- [How to create a profile readme on GitHub](https://certifriedit.com/how-to-create-a-profile-readme-on-github/)
 <!-- BLOG-POST-LIST:END -->
