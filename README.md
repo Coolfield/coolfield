@@ -1,4 +1,6 @@
 ### 🌐 Welcome to my corner of the WWW
+#### InfoSec & Data Science. 
+###### Sec+, CySA+, AWS-CCP
 
 <!--
 **Coolfield/coolfield** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -6,10 +8,10 @@
 
 <!-- Here are some ideas to get you started: -->
 
-- 🔭 I’m currently working on CompTia Linux+;
-- 🌱 I’m currently learning Linux system administration and Azure;
+- 🔭 I’m currently working studying towards a Data Science BSc at Open University;
+- 🌱 I’m currently studying PenTest+ and AWS Solutions Architect;
 - ⚡ I build with: Python, Flask, JavaScript, React, Node, Express;
-- 🥮 I sometimes study chinese, right now I'm working on HSK3;
+- 🥮 I sometimes study Chinese, I write about it at [Mandarin Resource](https://mandarinresource.com);
 - 📝 I write at [CertiFried IT](https://certifriedit.com/);
 - 📫 How to reach me: me@joshcaulfield.com;
 <!-- - 👯 I’m looking to collaborate on vertical farming automation; -->
