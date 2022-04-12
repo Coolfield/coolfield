@@ -1,15 +1,11 @@
 ### 🌐 Welcome to my corner of the WWW
 #### InfoSec & Data Science. 
-###### Sec+, CySA+, AWS-CCP
-
-<!--
-**Coolfield/coolfield** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+###### Sec+, CySA+, PenTest+, AWS-CCP, AI-900
 
 <!-- Here are some ideas to get you started: -->
 
-- 🔭 I’m currently working studying towards a Data Science BSc at Open University;
-- 🌱 I’m currently studying PenTest+ and AWS Solutions Architect;
+- 🔭 I’m currently studying Data Science BSc at [Open University](https://github.com/the-open-university);
+- 🌱 I’m currently cramming for AWS Certs;
 - ⚡ I build with: Python, Flask, JavaScript, React, Node, Express;
 - 🥮 I sometimes study Chinese, I write about it at [Mandarin Resource](https://mandarinresource.com);
 - 📝 I write at [CertiFried IT](https://certifriedit.com/);
