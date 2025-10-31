@@ -15,9 +15,9 @@
 <!-- - 💬 Ask me about ...; -->
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [What is Infrastructure as Code &lpar;IaC&rpar;?](https://certifriedit.com/what-is-infrastructure-as-code-iac/)
-- [CTF collection Vol.1 | TryHackMe Writeup](https://certifriedit.com/ctf-collection-vol-1-tryhackme-writeup/)
-- [PicoCTF 2018 Walkthrough 1-16](https://certifriedit.com/picoctf-walkthrough-1-16/)
-- [Linux Fundamentals 1 | TryHackMe Walkthrough](https://certifriedit.com/thm-linux-fundamentals-1/)
-- [Tainted Water, Tainted Packages | Weekly Brief W06](https://certifriedit.com/tainted-water-tainted-packages-weekly-brief-w06/)
+- [What is Infrastructure as Code &lpar;IaC&rpar;?](https://www.certifriedit.com/what-is-infrastructure-as-code-iac/)
+- [CTF collection Vol.1 | TryHackMe Writeup](https://www.certifriedit.com/ctf-collection-vol-1-tryhackme-writeup/)
+- [PicoCTF 2018 Walkthrough 1-16](https://www.certifriedit.com/picoctf-walkthrough-1-16/)
+- [Linux Fundamentals 1 | TryHackMe Walkthrough](https://www.certifriedit.com/thm-linux-fundamentals-1/)
+- [Tainted Water, Tainted Packages | Weekly Brief W06](https://www.certifriedit.com/tainted-water-tainted-packages-weekly-brief-w06/)
 <!-- BLOG-POST-LIST:END -->
